@@ -1,0 +1,3 @@
+SquareCalculator$1
+SquareCalculator$2
+SquareCalculator
